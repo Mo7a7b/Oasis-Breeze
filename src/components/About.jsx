@@ -41,7 +41,7 @@ const About = () => {
           <div className="md:col-span-8">
             <p className="badge">Best Cocktails</p>
             <h2>
-              Where Every Detail Matters <span className="text-white">-</span>
+              Where Every Detail Matters <span className="text-white">-</span>{" "}
               From Muddle To Garnish
             </h2>
           </div>
