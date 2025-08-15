@@ -1,0 +1,68 @@
+{
+  "navbar": {
+    "cocktails": "Cocktail",
+    "about": "Chi Siamo",
+    "art": "L'Arte",
+    "contact": "Contatto",
+    "brand": "Oasis Breeze"
+  },
+  "hero": {
+    "title": "MOJITO",
+    "subtitle1": "Assapora lo Spirito dell'Estate",
+    "subtitle2": "Ogni cocktail del nostro menu è una miscela di ingredienti premium, creatività e ricette senza tempo — pensate per deliziare i tuoi sensi.",
+    "alcoholFree": "100% Analcolico",
+    "viewCocktails": "Vedi Cocktail"
+  },
+  "cocktails": {
+    "mostPopular": "Cocktail Più Popolari:",
+    "mostLoved": "Mocktail Più Amati:",
+    "country": "Paese",
+    "detail": "Dettaglio",
+    "price": "Prezzo"
+  },
+  "about": {
+    "badge": "Migliori Cocktail",
+    "heading": "Dove Ogni Dettaglio Conta - Dal Muddle Alla Guarnizione",
+    "desc": "Ogni cocktail che serviamo riflette la nostra ossessione per i dettagli — dal primo muddle alla guarnizione finale. Tutti i cocktail del nostro menu sono totalmente analcolici.",
+    "rating": "Oltre +12000 clienti"
+  },
+  "art": {
+    "title": "L'ARTE",
+    "sipWorthy": "Perfezione da Gustare",
+    "crafted": "Creato con Arte, Servito con Passione",
+    "craftedDesc": "Questo non è solo un cocktail. È un momento accuratamente creato solo per te.",
+    "features": [
+      "Miscele perfettamente bilanciate",
+      "Guarnito alla perfezione",
+      "Sempre ghiacciato",
+      "Agitato e mescolato da esperti"
+    ],
+    "goods": [
+      "Ingredienti selezionati a mano",
+      "Tecniche esclusive",
+      "100% Analcolico",
+      "Sapori appena pestati"
+    ]
+  },
+  "menu": {
+    "title": "Menu Cocktail",
+    "recipeFor": "Ricetta per:"
+  },
+  "contact": {
+    "where": "Dove Trovarci",
+    "visit": "Visita il Nostro Locale",
+    "address": "456, Raq Blvd. #404, Los Angeles, CA 90210",
+    "contactUs": "Contattaci",
+    "phone": "(555) 987-6543",
+    "email": "hello@jsmcocktail.com",
+    "open": "Aperto Tutti i Giorni",
+    "socials": "Social",
+    "openingHours": [
+      { "day": "Lun–Gio", "time": "11:00am – 12am" },
+      { "day": "Ven", "time": "11:00am – 2am" },
+      { "day": "Sab", "time": "9:00am – 2am" },
+      { "day": "Dom", "time": "9:00am – 1am" }
+    ],
+    "socialNames": ["Instagram", "X (Twitter)", "Facebook"]
+  }
+}

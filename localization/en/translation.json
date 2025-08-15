@@ -1,0 +1,68 @@
+{
+  "navbar": {
+    "cocktails": "Cocktails",
+    "about": "About Us",
+    "art": "The Art",
+    "contact": "Contact",
+    "brand": "Oasis Breeze"
+  },
+  "hero": {
+    "title": "MOJITO",
+    "subtitle1": "Sip the Spirit of Summer",
+    "subtitle2": "Every cocktail on our menu is a blend of premium ingredients, creative flair, and timeless recipes — designed to delight your senses.",
+    "alcoholFree": "100% Alcohol-Free",
+    "viewCocktails": "View Cocktails"
+  },
+  "cocktails": {
+    "mostPopular": "Most Popular Cocktails:",
+    "mostLoved": "Most Loved Mocktails:",
+    "country": "Country",
+    "detail": "Detail",
+    "price": "Price"
+  },
+  "about": {
+    "badge": "Best Cocktails",
+    "heading": "Where Every Detail Matters - From Muddle To Garnish",
+    "desc": "Every cocktail we serve is a reflection of our obsession with detail — from the first muddle to the final garnish. Every cocktail in our menu is totally alcohol-free.",
+    "rating": "More than +12000 customers"
+  },
+  "art": {
+    "title": "The ART",
+    "sipWorthy": "Sip-Worthy Perfection",
+    "crafted": "Made with Craft, Poured with Passion",
+    "craftedDesc": "This isn’t just a cocktail. It’s a carefully crafted moment made just for you.",
+    "features": [
+      "Perfectly balanced blends",
+      "Garnished to perfection",
+      "Ice-cold every time",
+      "Expertly shaken & stirred"
+    ],
+    "goods": [
+      "Handpicked ingredients",
+      "Signature techniques",
+      "100% Alcohol-free",
+      "Freshly muddled flavors"
+    ]
+  },
+  "menu": {
+    "title": "Cocktail Menu",
+    "recipeFor": "Recipe for:"
+  },
+  "contact": {
+    "where": "Where to Find Us",
+    "visit": "Visit Our Shop",
+    "address": "456, Raq Blvd. #404, Los Angeles, CA 90210",
+    "contactUs": "Contact Us",
+    "phone": "(555) 987-6543",
+    "email": "hello@jsmcocktail.com",
+    "open": "Open Every Day",
+    "socials": "Socials",
+    "openingHours": [
+      { "day": "Mon–Thu", "time": "11:00am – 12am" },
+      { "day": "Fri", "time": "11:00am – 2am" },
+      { "day": "Sat", "time": "9:00am – 2am" },
+      { "day": "Sun", "time": "9:00am – 1am" }
+    ],
+    "socialNames": ["Instagram", "X (Twitter)", "Facebook"]
+  }
+}

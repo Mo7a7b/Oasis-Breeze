@@ -1,0 +1,68 @@
+{
+  "navbar": {
+    "cocktails": "Coquetéis",
+    "about": "Sobre Nós",
+    "art": "A Arte",
+    "contact": "Contato",
+    "brand": "Oasis Breeze"
+  },
+  "hero": {
+    "title": "MOJITO",
+    "subtitle1": "Saboreie o Espírito do Verão",
+    "subtitle2": "Cada coquetel do nosso menu é uma mistura de ingredientes premium, criatividade e receitas atemporais — feitas para encantar seus sentidos.",
+    "alcoholFree": "100% Sem Álcool",
+    "viewCocktails": "Ver Coquetéis"
+  },
+  "cocktails": {
+    "mostPopular": "Coquetéis Mais Populares:",
+    "mostLoved": "Mocktails Mais Amados:",
+    "country": "País",
+    "detail": "Detalhe",
+    "price": "Preço"
+  },
+  "about": {
+    "badge": "Melhores Coquetéis",
+    "heading": "Onde Cada Detalhe Importa - Do Muddle à Guarnição",
+    "desc": "Cada coquetel que servimos reflete nossa obsessão por detalhes — do primeiro muddle à guarnição final. Todos os coquetéis do nosso menu são totalmente sem álcool.",
+    "rating": "Mais de +12000 clientes"
+  },
+  "art": {
+    "title": "A ARTE",
+    "sipWorthy": "Perfeição para Saborear",
+    "crafted": "Feito com Arte, Servido com Paixão",
+    "craftedDesc": "Isto não é apenas um coquetel. É um momento cuidadosamente elaborado só para você.",
+    "features": [
+      "Misturas perfeitamente equilibradas",
+      "Guarnecido à perfeição",
+      "Sempre gelado",
+      "Agitado e misturado por especialistas"
+    ],
+    "goods": [
+      "Ingredientes selecionados à mão",
+      "Técnicas exclusivas",
+      "100% Sem álcool",
+      "Sabores recém-amassados"
+    ]
+  },
+  "menu": {
+    "title": "Menu de Coquetéis",
+    "recipeFor": "Receita para:"
+  },
+  "contact": {
+    "where": "Onde Nos Encontrar",
+    "visit": "Visite Nosso Bar",
+    "address": "456, Raq Blvd. #404, Los Angeles, CA 90210",
+    "contactUs": "Fale Conosco",
+    "phone": "(555) 987-6543",
+    "email": "hello@jsmcocktail.com",
+    "open": "Aberto Todos os Dias",
+    "socials": "Redes Sociais",
+    "openingHours": [
+      { "day": "Seg–Qui", "time": "11:00am – 12am" },
+      { "day": "Sex", "time": "11:00am – 2am" },
+      { "day": "Sáb", "time": "9:00am – 2am" },
+      { "day": "Dom", "time": "9:00am – 1am" }
+    ],
+    "socialNames": ["Instagram", "X (Twitter)", "Facebook"]
+  }
+}

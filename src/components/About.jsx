@@ -1,8 +1,10 @@
 import gsap from "gsap";
 import { SplitText } from "gsap/all";
 import { useGSAP } from "@gsap/react";
+import { useTranslation } from "react-i18next";
 
 const About = () => {
+  const { t } = useTranslation();
   useGSAP(() => {
     const titleSplit = SplitText.create("#about h2", {
       type: "words",
@@ -39,25 +41,16 @@ const About = () => {
       <div className="mb-16 md:px-0 px-5">
         <div className="content">
           <div className="md:col-span-8">
-            <p className="badge">Best Cocktails</p>
-            <h2>
-              Where Every Detail Matters <span className="text-white">-</span>{" "}
-              From Muddle To Garnish
-            </h2>
+            <p className="badge">{t("about.badge")}</p>
+            <h2>{t("about.heading")}</h2>
           </div>
           <div className="sub-content">
-            <p>
-              Every cocktail we serve is a reflection of our obsession with
-              detail — from the first muddle to the final garnish. Every
-              cocktail in our menu is totally alcohol-free.
-            </p>
+            <p>{t("about.desc")}</p>
             <div>
               <p className="md:text-3xl text-xl font-bold">
                 <span>4.5</span>/5
               </p>
-              <p className="text-sm text-white-100">
-                More than +12000 customers
-              </p>
+              <p className="text-sm text-white-100">{t("about.rating")}</p>
             </div>
           </div>
         </div>

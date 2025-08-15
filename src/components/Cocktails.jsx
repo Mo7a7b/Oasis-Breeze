@@ -1,7 +1,9 @@
 import { useGSAP } from "@gsap/react";
 import { cocktailLists, mockTailLists } from "../../constants";
 import gsap from "gsap";
+import { useTranslation } from "react-i18next";
 const Cocktails = () => {
+  const { t } = useTranslation();
   useGSAP(() => {
     const parallaxTimeline = gsap.timeline({
       scrollTrigger: {
@@ -31,7 +33,7 @@ const Cocktails = () => {
       />
       <div className="list">
         <div className="popular">
-          <h2>Most Popular Cocktails:</h2>
+          <h2>{t("cocktails.mostPopular")}</h2>
           <ul>
             {cocktailLists.map(({ name, country, detail, price }) => (
               <li key={name}>
@@ -47,7 +49,7 @@ const Cocktails = () => {
           </ul>
         </div>
         <div className="loved">
-          <h2>Most Loved Mocktails:</h2>
+          <h2>{t("cocktails.mostLoved")}</h2>
           <ul>
             {mockTailLists.map(({ name, country, detail, price }) => (
               <li key={name}>

@@ -4,8 +4,10 @@ import { sliderLists as allCocktails } from "../../constants/index.js";
 import { useRef, useState } from "react";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
+import { useTranslation } from "react-i18next";
 
 const Menu = () => {
+  const { t } = useTranslation();
   const contentRef = useRef();
   const [currentIndex, setCurrentIndex] = useState(0);
 
@@ -45,7 +47,6 @@ const Menu = () => {
 
   const goToSlide = (index) => {
     const newIndex = (index + totalCocktails) % totalCocktails;
-
     setCurrentIndex(newIndex);
   };
 
@@ -73,19 +74,22 @@ const Menu = () => {
       />
 
       <h2 id="menu-heading" className="sr-only">
-        Cocktail Menu
+        {t("menu.title")}
       </h2>
 
       <nav className="cocktail-tabs" aria-label="Cocktail Navigation">
         {allCocktails.map((cocktail, index) => {
           const isActive = index === currentIndex;
-
           return (
             <button
               key={cocktail.id}
               className={`
-				${isActive ? "text-white border-white" : "text-white/50 border-white/50"}
-			 `}
+                ${
+                  isActive
+                    ? "text-white border-white"
+                    : "text-white/50 border-white/50"
+                }
+              `}
               onClick={() => goToSlide(index)}
             >
               {cocktail.name}
@@ -127,7 +131,7 @@ const Menu = () => {
 
         <div className="recipe">
           <div ref={contentRef} className="info">
-            <p>Recipe for:</p>
+            <p>{t("menu.recipeFor")}</p>
             <p id="title">{currentCocktail.name}</p>
           </div>
 

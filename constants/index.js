@@ -19,26 +19,26 @@ const navLinks = [
 
 const cocktailLists = [
   {
-    name: "Chapel Hill Shiraz",
-    country: "AU",
-    detail: "Battle",
+    name: "Tropical Mango Smoothie",
+    country: "EG",
+    detail: "Glass",
     price: "$10",
   },
   {
-    name: "Caten Malbee",
-    country: "AU",
-    detail: "Battle",
+    name: "Blueberry Bliss Mocktail",
+    country: "EG",
+    detail: "Glass",
     price: "$49",
   },
   {
-    name: "Rhino Pale Ale",
-    country: "CA",
+    name: "Sparkling Citrus Soda",
+    country: "EG",
     detail: "750 ml",
     price: "$20",
   },
   {
-    name: "Irish Guinness",
-    country: "IE",
+    name: "Classic Malt-Free Stout",
+    country: "EG",
     detail: "600 ml",
     price: "$29",
   },
@@ -96,7 +96,7 @@ const featureLists = [
 const goodLists = [
   "Handpicked ingredients",
   "Signature techniques",
-  "Bartending artistry in action",
+  "100% Alcohol-free",
   "Freshly muddled flavors",
 ];
 

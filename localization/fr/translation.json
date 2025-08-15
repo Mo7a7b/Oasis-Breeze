@@ -1,0 +1,68 @@
+{
+  "navbar": {
+    "cocktails": "Cocktails",
+    "about": "À Propos",
+    "art": "L'Art",
+    "contact": "Contact",
+    "brand": "Oasis Breeze"
+  },
+  "hero": {
+    "title": "MOJITO",
+    "subtitle1": "Savourez l'Esprit de l'Été",
+    "subtitle2": "Chaque cocktail de notre menu est un mélange d'ingrédients premium, de créativité et de recettes intemporelles — conçues pour ravir vos sens.",
+    "alcoholFree": "100% Sans Alcool",
+    "viewCocktails": "Voir les Cocktails"
+  },
+  "cocktails": {
+    "mostPopular": "Cocktails Les Plus Populaires:",
+    "mostLoved": "Mocktails Les Plus Aimés:",
+    "country": "Pays",
+    "detail": "Détail",
+    "price": "Prix"
+  },
+  "about": {
+    "badge": "Meilleurs Cocktails",
+    "heading": "Où Chaque Détail Compte - Du Muddle à la Garniture",
+    "desc": "Chaque cocktail que nous servons reflète notre obsession du détail — du premier muddle à la garniture finale. Tous les cocktails de notre menu sont totalement sans alcool.",
+    "rating": "Plus de +12000 clients"
+  },
+  "art": {
+    "title": "L'ART",
+    "sipWorthy": "Perfection à Déguster",
+    "crafted": "Créé avec Art, Servi avec Passion",
+    "craftedDesc": "Ce n'est pas qu'un cocktail. C'est un moment soigneusement élaboré juste pour vous.",
+    "features": [
+      "Mélanges parfaitement équilibrés",
+      "Garnis à la perfection",
+      "Toujours glacé",
+      "Secoué et mélangé par des experts"
+    ],
+    "goods": [
+      "Ingrédients sélectionnés à la main",
+      "Techniques exclusives",
+      "100% Sans alcool",
+      "Saveurs fraîchement pilées"
+    ]
+  },
+  "menu": {
+    "title": "Menu des Cocktails",
+    "recipeFor": "Recette pour:"
+  },
+  "contact": {
+    "where": "Où Nous Trouver",
+    "visit": "Visitez Notre Bar",
+    "address": "456, Raq Blvd. #404, Los Angeles, CA 90210",
+    "contactUs": "Contactez-nous",
+    "phone": "(555) 987-6543",
+    "email": "hello@jsmcocktail.com",
+    "open": "Ouvert Tous les Jours",
+    "socials": "Réseaux Sociaux",
+    "openingHours": [
+      { "day": "Lun–Jeu", "time": "11:00am – 12am" },
+      { "day": "Ven", "time": "11:00am – 2am" },
+      { "day": "Sam", "time": "9:00am – 2am" },
+      { "day": "Dim", "time": "9:00am – 1am" }
+    ],
+    "socialNames": ["Instagram", "X (Twitter)", "Facebook"]
+  }
+}

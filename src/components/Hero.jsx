@@ -3,7 +3,10 @@ import gsap from "gsap";
 import { SplitText } from "gsap/all";
 import { useRef } from "react";
 import { useMediaQuery } from "react-responsive";
+import { useTranslation } from "react-i18next";
+
 const Hero = () => {
+  const { t } = useTranslation();
   const videoRef = useRef(null);
   const isMobile = useMediaQuery({ maxWidth: 767 });
 
@@ -58,12 +61,12 @@ const Hero = () => {
         currentTime: videoRef.current.duration,
       });
     };
-  }, []);
+  });
 
   return (
     <>
       <section id="hero" className="noisy">
-        <h1 className="title">MOJITO</h1>
+        <h1 className="title">{t("hero.title")}</h1>
         <img
           src="/images/hero-left-leaf.png"
           alt="left-leaf"
@@ -80,22 +83,16 @@ const Hero = () => {
           <div className="content">
             <div className="space-y-5 hidden md:block">
               <p></p>
-              <p className="subtitle">
-                Sip the Spirit <br /> of Summer
-              </p>
+              <p className="subtitle">{t("hero.subtitle1")}</p>
             </div>
             <div className="view-cocktails">
-              <p className="subtitle">
-                Every cocktail on our menu is a blend of premium ingredients,
-                creative flair, and timeless recipes — designed to delight your
-                senses.
-              </p>
+              <p className="subtitle">{t("hero.subtitle2")}</p>
               <span className="text-xl text-red-400 subtitle">
-                "100% Alcohol-Free"
+                {t("hero.alcoholFree")}
               </span>
               <br />
               <a className="z-999" href="#cocktails">
-                View Cocktails
+                {t("hero.viewCocktails")}
               </a>
             </div>
           </div>

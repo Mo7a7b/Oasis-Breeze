@@ -1,0 +1,68 @@
+{
+  "navbar": {
+    "cocktails": "Cocktails",
+    "about": "Über Uns",
+    "art": "Die Kunst",
+    "contact": "Kontakt",
+    "brand": "Oasis Breeze"
+  },
+  "hero": {
+    "title": "MOJITO",
+    "subtitle1": "Genieße den Geist des Sommers",
+    "subtitle2": "Jeder Cocktail auf unserer Karte ist eine Mischung aus hochwertigen Zutaten, Kreativität und zeitlosen Rezepten – entwickelt, um deine Sinne zu begeistern.",
+    "alcoholFree": "100% Alkoholfrei",
+    "viewCocktails": "Cocktails ansehen"
+  },
+  "cocktails": {
+    "mostPopular": "Beliebteste Cocktails:",
+    "mostLoved": "Beliebteste Mocktails:",
+    "country": "Land",
+    "detail": "Details",
+    "price": "Preis"
+  },
+  "about": {
+    "badge": "Beste Cocktails",
+    "heading": "Wo jedes Detail zählt – vom Muddler bis zur Garnitur",
+    "desc": "Jeder Cocktail, den wir servieren, spiegelt unsere Liebe zum Detail wider – vom ersten Muddler bis zur letzten Garnitur. Alle Cocktails auf unserer Karte sind komplett alkoholfrei.",
+    "rating": "Mehr als +12000 Kunden"
+  },
+  "art": {
+    "title": "DIE KUNST",
+    "sipWorthy": "Genussvolle Perfektion",
+    "crafted": "Mit Kunst gemacht, mit Leidenschaft serviert",
+    "craftedDesc": "Das ist nicht nur ein Cocktail. Es ist ein sorgfältig gestalteter Moment nur für dich.",
+    "features": [
+      "Perfekt ausgewogene Mischungen",
+      "Perfekt garniert",
+      "Immer eiskalt",
+      "Von Experten geschüttelt & gerührt"
+    ],
+    "goods": [
+      "Handverlesene Zutaten",
+      "Exklusive Techniken",
+      "100% Alkoholfrei",
+      "Frisch gemuddelte Aromen"
+    ]
+  },
+  "menu": {
+    "title": "Cocktailkarte",
+    "recipeFor": "Rezept für:"
+  },
+  "contact": {
+    "where": "Wo du uns findest",
+    "visit": "Besuche unsere Bar",
+    "address": "456, Raq Blvd. #404, Los Angeles, CA 90210",
+    "contactUs": "Kontaktiere uns",
+    "phone": "(555) 987-6543",
+    "email": "hello@jsmcocktail.com",
+    "open": "Täglich geöffnet",
+    "socials": "Soziale Netzwerke",
+    "openingHours": [
+      { "day": "Mo–Do", "time": "11:00–24:00" },
+      { "day": "Fr", "time": "11:00–2:00" },
+      { "day": "Sa", "time": "9:00–2:00" },
+      { "day": "So", "time": "9:00–1:00" }
+    ],
+    "socialNames": ["Instagram", "X (Twitter)", "Facebook"]
+  }
+}

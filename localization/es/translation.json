@@ -1,0 +1,68 @@
+{
+  "navbar": {
+    "cocktails": "Cócteles",
+    "about": "Sobre Nosotros",
+    "art": "El Arte",
+    "contact": "Contacto",
+    "brand": "Oasis Breeze"
+  },
+  "hero": {
+    "title": "MOJITO",
+    "subtitle1": "Saborea el Espíritu del Verano",
+    "subtitle2": "Cada cóctel de nuestro menú es una mezcla de ingredientes premium, creatividad y recetas atemporales — diseñadas para deleitar tus sentidos.",
+    "alcoholFree": "100% Sin Alcohol",
+    "viewCocktails": "Ver Cócteles"
+  },
+  "cocktails": {
+    "mostPopular": "Cócteles Más Populares:",
+    "mostLoved": "Mocktails Más Amados:",
+    "country": "País",
+    "detail": "Detalle",
+    "price": "Precio"
+  },
+  "about": {
+    "badge": "Mejores Cócteles",
+    "heading": "Donde Cada Detalle Importa - Desde el Muddle Hasta la Decoración",
+    "desc": "Cada cóctel que servimos es un reflejo de nuestra obsesión por el detalle — desde el primer muddle hasta la decoración final. Todos los cócteles de nuestro menú son totalmente sin alcohol.",
+    "rating": "Más de +12000 clientes"
+  },
+  "art": {
+    "title": "El ARTE",
+    "sipWorthy": "Perfección para Saborear",
+    "crafted": "Hecho con Arte, Servido con Pasión",
+    "craftedDesc": "Esto no es solo un cóctel. Es un momento cuidadosamente elaborado solo para ti.",
+    "features": [
+      "Mezclas perfectamente equilibradas",
+      "Decorados a la perfección",
+      "Siempre bien fríos",
+      "Agitados y mezclados por expertos"
+    ],
+    "goods": [
+      "Ingredientes seleccionados a mano",
+      "Técnicas exclusivas",
+      "100% Sin alcohol",
+      "Sabores recién mezclados"
+    ]
+  },
+  "menu": {
+    "title": "Menú de Cócteles",
+    "recipeFor": "Receta para:"
+  },
+  "contact": {
+    "where": "Dónde Encontrarnos",
+    "visit": "Visita Nuestra Tienda",
+    "address": "456, Raq Blvd. #404, Los Ángeles, CA 90210",
+    "contactUs": "Contáctanos",
+    "phone": "(555) 987-6543",
+    "email": "hello@jsmcocktail.com",
+    "open": "Abierto Todos los Días",
+    "socials": "Redes Sociales",
+    "openingHours": [
+      { "day": "Lun–Jue", "time": "11:00am – 12am" },
+      { "day": "Vie", "time": "11:00am – 2am" },
+      { "day": "Sáb", "time": "9:00am – 2am" },
+      { "day": "Dom", "time": "9:00am – 1am" }
+    ],
+    "socialNames": ["Instagram", "X (Twitter)", "Facebook"]
+  }
+}
