@@ -90,6 +90,10 @@ const Hero = () => {
                 creative flair, and timeless recipes — designed to delight your
                 senses.
               </p>
+              <span className="text-xl text-red-400 subtitle">
+                "100% Alcohol-Free"
+              </span>
+              <br />
               <a className="z-999" href="#cocktails">
                 View Cocktails
               </a>

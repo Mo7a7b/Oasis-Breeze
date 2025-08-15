@@ -141,15 +141,15 @@ const sliderLists = [
     image: "/images/drink1.png",
     title: "Simple Ingredients, Bold Flavor",
     description:
-      "Made with tequila, lime juice, and orange liqueur, the Margarita is easy to make and full of character. Add a salted rim for the perfect drink on summer nights.",
+      "The Mojito is a classic that balances tangy lime and a touch of mint. Shaken, muddled, or on the rocks—it’s always crisp & refreshing.",
   },
   {
     id: 2,
-    name: "Raspberry Mojito",
+    name: "Citrus Sunburst",
     image: "/images/drink2.png",
     title: "A Zesty Classic That Never Fails",
     description:
-      "The Margarita is a classic that balances tangy lime, smooth tequila, and a touch of sweetness. Shaken, frozen, or on the rocks—it’s always crisp & refreshing.",
+      "The Citrus Sunburst is a timeless favorite, blending lime juice, and orange juice. Perfect for any occasion, it’s a drink that never goes out of style.",
   },
   {
     id: 3,
@@ -157,7 +157,7 @@ const sliderLists = [
     image: "/images/drink3.png",
     title: "Simple Ingredients, Bold Flavor",
     description:
-      "Made with tequila, lime juice, and orange liqueur, the Margarita is easy to make and full of character. Add a salted rim for the perfect drink on summer nights.",
+      "The Violet Breeze has a mix of a lot of fresh fruits and herbs, creating a refreshing and vibrant cocktail that’s perfect for any occasion.",
   },
   {
     id: 4,
@@ -165,7 +165,7 @@ const sliderLists = [
     image: "/images/drink4.png",
     title: "Crafted With Care, Poured With Love",
     description:
-      "Each cocktail is made with fresh ingredients and a passion for perfecting every pour, whether you're celebrating or simply relaxing.",
+      "The Curacao Mojito is a tropical twist on the classic, featuring blue Curacao for a vibrant color and a refreshing taste that’s perfect for summer.",
   },
 ];
 

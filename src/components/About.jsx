@@ -48,8 +48,8 @@ const About = () => {
           <div className="sub-content">
             <p>
               Every cocktail we serve is a reflection of our obsession with
-              detail — from the first muddle to the final garnish. That care is
-              what turns a simple drink into something truly memorable.
+              detail — from the first muddle to the final garnish. Every
+              cocktail in our menu is totally alcohol-free.
             </p>
             <div>
               <p className="md:text-3xl text-xl font-bold">
