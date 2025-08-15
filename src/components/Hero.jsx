@@ -68,16 +68,18 @@ const Hero = () => {
           src="/images/hero-left-leaf.png"
           alt="left-leaf"
           className="left-leaf"
+          style={{ width: "175px" }}
         />
         <img
           src="/images/hero-right-leaf.png"
           alt="right-leaf"
           className="right-leaf"
+          style={{ width: "200px" }}
         />
         <div className="body">
           <div className="content">
             <div className="space-y-5 hidden md:block">
-              <p>Cool. Crisp. Classic.</p>
+              <p></p>
               <p className="subtitle">
                 Sip the Spirit <br /> of Summer
               </p>
@@ -88,7 +90,9 @@ const Hero = () => {
                 creative flair, and timeless recipes — designed to delight your
                 senses.
               </p>
-              <a href="#cocktails">View Cocktails</a>
+              <a className="z-999" href="#cocktails">
+                View Cocktails
+              </a>
             </div>
           </div>
         </div>
